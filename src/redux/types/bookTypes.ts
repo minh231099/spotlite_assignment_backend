@@ -1,0 +1,2 @@
+export const GET_LIST_BOOK = 'GET_LIST_BOOK';
+export const GET_LIST_RANDOM_BOOK = 'GET_LIST_RANDOM_BOOK';
